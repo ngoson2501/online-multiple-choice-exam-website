@@ -1,18 +1,18 @@
-let slideIndex = 0;
-const slides = document.querySelectorAll(".slide");
-const slider = document.querySelector(".slider");
+let slideIndex = 0
+const slides = document.querySelectorAll(".slide")
+const slider = document.querySelector(".slider")
 
 function showSlide(index) {
-  slider.style.transform = `translateX(-${index * 100}%)`;
+  slider.style.transform = `translateX(-${index * 100}%)`
 }
 
 function nextSlide() {
   if (slideIndex < slides.length - 1) {
-    slideIndex++;
+    slideIndex++
   } else {
-    slideIndex = 0;
+    slideIndex = 0
   }
-  showSlide(slideIndex);
+  showSlide(slideIndex)
 }
 
-setInterval(nextSlide, 4000); // Automatic sliding, change every 2 seconds
+setInterval(nextSlide, 3000)// Automatic sliding, change every 2 seconds

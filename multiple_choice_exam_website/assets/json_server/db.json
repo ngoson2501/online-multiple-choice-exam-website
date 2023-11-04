@@ -1,0 +1,590 @@
+{
+    "THI_THPT_QG_Mon_Toan": [
+      {
+        "id": 1,
+        "subject": "Math",
+        "questions": [
+          {
+            "id": 1,
+            "question_text": "What is 5*10",
+            "answers": [
+              { "id": 1, "text": "50", "correct": true },
+              { "id": 2, "text": "390", "correct": false },
+              { "id": 3, "text": "10", "correct": false },
+              { "id": 4, "text": "20", "correct": false }
+            ]
+          },
+          {
+            "id": 2,
+            "question_text": "What is 8/4",
+            "answers": [
+              { "id": 1, "text": "1/2", "correct": true },
+              { "id": 2, "text": "3", "correct": false },
+              { "id": 3, "text": "2", "correct": false },
+              { "id": 4, "text": "5", "correct": false }
+            ]
+          }
+          
+        ],
+       "info":{
+            "title": "Đề thi tốt nghiệp THPT môn Toán năm 2023",
+            "address": "BỘ GD&ĐT - Mã đề 101",
+            "date": "13/07/2023",
+            "examTime":"90",
+            "question_number": "50"
+       }
+      },
+      {
+        "id": 2,
+        "subject": "Math",
+        "questions": [
+          {
+            "id": 1,
+            "question_text": "What is son3",
+            "answers": [
+              { "id": 1, "text": "4", "correct": true },
+              { "id": 2, "text": "3", "correct": false },
+              { "id": 3, "text": "5", "correct": false },
+              { "id": 4, "text": "6", "correct": false }
+            ]
+          },
+          {
+            "id": 2,
+            "question_text": "What is son4",
+            "answers": [
+              { "id": 1, "text": "4", "correct": true },
+              { "id": 2, "text": "3", "correct": false },
+              { "id": 3, "text": "5", "correct": false },
+              { "id": 4, "text": "6", "correct": false }
+            ]
+          }
+          
+        ],
+        "info":{
+            "title": "Đề thi thử tốt nghiệp THPT môn Toán năm 2023",
+            "address": "Trường THPT Võ Thị Sáu",
+            "date": "27/06/2023",
+            "examTime":"90",
+            "question_number": "50"
+        }
+      },
+      {
+        "id": 3,
+        "subject": "Math",
+        "questions": [
+          {
+            "id": 1,
+            "question_text": "What is son5",
+            "answers": [
+              { "id": 1, "text": "4", "correct": true },
+              { "id": 2, "text": "3", "correct": false },
+              { "id": 3, "text": "5", "correct": false },
+              { "id": 4, "text": "6", "correct": false }
+            ]
+          },
+          {
+            "id": 2,
+            "question_text": "What is son6",
+            "answers": [
+              { "id": 1, "text": "4", "correct": true },
+              { "id": 2, "text": "3", "correct": false },
+              { "id": 3, "text": "5", "correct": false },
+              { "id": 4, "text": "6", "correct": false }
+            ]
+          }
+          
+        ],
+        "info":{
+            "title": "Đề thi thử tốt nghiệp THPT môn Toán năm 2023",
+            "address": "Trường THPT Chuyên Vĩnh Phúc lần 1",
+            "date": "16/06/2023",
+            "examTime":"90",
+            "question_number": "50"
+        }
+      }
+    ],
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    "THI_THPT_QG_Mon_Lich_Su": [
+      {
+        "id": 1,
+        "subject": "History",
+        "questions": [
+          {
+            "id": 1,
+            "question_text": "So với Hiệp hội các quốc gia Đông Nam Á (ASEAN), sự phát triển của Liên minh châu Âu (EU) có điểm khác biệt gì?",
+            "answers": [
+              { "id": 1, "text": "Hạn chế sự can thiệp và chi phối của các cường quốc.", "correct": false },
+              { "id": 2, "text": "Diễn ra quá trình nhật thể hóa trong khuôn khổ khu vực.", "correct": true },
+              { "id": 3, "text": "Quá trình hợp tác; mở rộng thành viên diễn ra khá lâu dài.", "correct": false },
+              { "id": 4, "text": "Hợp tác, giúp đỡ các nước trong khu vực phát triển kinh tế.", "correct": false }
+            ]
+          },
+          {
+            "id": 2,
+            "question_text": "Sự sụp đổ của chế độ độc tài thân Mĩ ở khu vực Mĩ Latinh từ nửa sau thế kỉ XX chứng tỏ",
+            "answers": [
+              { "id": 1, "text": "Thất bại của Mĩ trong việc biên Mĩ Latinh thành sân sau.", "correct": true },
+              { "id": 2, "text": "Đánh dấu sự thất bại hoàn toàn của Mĩ trong việc triển khai chiến lược toàn cầu.", "correct": false },
+              { "id": 3, "text": "Sự sụp đổ của chế độ thực dân cũ.", "correct": false },
+              { "id": 4, "text": "Sự thắng lợi của các Đảng cộng sản.", "correct": false }
+            ]
+          },
+          {
+            "id": 3,
+            "question_text": "Nenxơn Manđêla là được trao giải Nôbel Hòa bình năm 1993 vì đã",
+            "answers": [
+              { "id": 1, "text": "Trở thành vị tổng thống da đen đầu tiên trên thế giới", "correct": false },
+              { "id": 2, "text": "Có nhiều đóng góp tích cực cho phong trào hòa bình và hòa giải xung đột ở Nam Phi.", "correct": false },
+              { "id": 3, "text": "Xóa bỏ được chế độ phân biệt chủng tộc ở Nam Phi.", "correct": false },
+              { "id": 4, "text": "Có nhiều đóng góp tích cực cho phong trào hòa bình thế giới.", "correct": true }
+            ]
+          },
+          {
+            "id": 4,
+            "question_text": "Trước xu thế mới trong quán hệ quốc tế ở thế kỉ XXI, Việt Nam có những thuận lợi gì?",
+            "answers": [
+              { "id": 1, "text": "Hợp tác kinh tế để thu hút vốn đầu tư và ứng dụng khoa học kĩ thuật.", "correct": true },
+              { "id": 2, "text": "Nâng cao trình độ tập rung vốn và lao động.", "correct": false },
+              { "id": 3, "text": "Ứng dụng thành tựu khoa học kĩ thuật vào sản xuất.", "correct": false },
+              { "id": 4, "text": "Có thị trường lớn để tăng cường xuất khẩu hàng hóa.", "correct": false }
+            ]
+          },
+          {
+            "id": 5,
+            "question_text": "Bài học kinh nghiệm lớn nhất được rút ra cho cách mạng Việt Nam từ sự thất bại của phong trào yêu nước cuối thế kỉ XIX - những năm đầu thế kỉ XX là phải",
+            "answers": [
+              { "id": 1, "text": "Xác định đúng giai cấp lãnh đạo và đưa ra đường lối đấu tranh đúng đắn.", "correct": true },
+              { "id": 2, "text": "Sử dụng sức mạnh của cả dân tộc đề giải quyết các vấn đề về dân tộc và giai cấp.", "correct": false },
+              { "id": 3, "text": "Xây dựng được một mặt trận dân tộc thống nhất đề đoàn kết toàn dân.", "correct": false },
+              { "id": 4, "text": "Giải quyết đúng đắn mối quan hệ giữa hai nhiệm vụ dân tộc và giai cấp.", "correct": false }
+            ]
+          },
+          {
+            "id": 6,
+            "question_text": "Bức tranh chung của nền kinh tế Việt Nam trong cuộc khai thác thuộc địa lần hai của Pháp là",
+            "answers": [
+              { "id": 1, "text": "Có sự phát triển mạnh mẽ nhưng bị cột chặt vào kinh tế Pháp.", "correct": false },
+              { "id": 2, "text": "Nghèo nàn, lạc hậu, phụ thuộc vào kinh tế nước Pháp.", "correct": true },
+              { "id": 3, "text": "Phát triển công nghiệp nặng và có cơ cầu kinh tế hợp lí.", "correct": false },
+              { "id": 4, "text": "Phát triển tương đối độc lập song vẫn phụ thuộc vào Pháp.", "correct": false }
+            ]
+          },
+          {
+            "id": 7,
+            "question_text": "Công lao đầu tiên, to lớn nhất của Nguyễn Ái Quốc đối với cách mạng Việt Nam trong những năm 1919 - 1925 là",
+            "answers": [
+              { "id": 1, "text": "Tìm ra con đường cứu nước", "correct": true },
+              { "id": 2, "text": "Thành lập Hội Việt Nam Cách mạng Thanh niên.", "correct": false },
+              { "id": 3, "text": "Soạn thảo Cương lĩnh Chính trị đầu tiên của Đảng.", "correct": false },
+              { "id": 4, "text": "Hợp nhất các tổ chức cộng sản, thành lập Đảng Cộng sản Việt Nam.", "correct": false }
+            ]
+          },
+          {
+            "id": 8,
+            "question_text": "Tổng đốc thành Hà Nội lãnh đạo nhân dân kháng chiến chống Pháp xâm lược Bắc Kì lần thứ nhất là ai?",
+            "answers": [
+              { "id": 1, "text": "Hoàng Diệu", "correct": false },
+              { "id": 2, "text": "Nguyễn Trung Trực.", "correct": false },
+              { "id": 3, "text": "Nguyễn Tri Phương", "correct": true },
+              { "id": 4, "text": "Nguyễn Lâm", "correct": false }
+            ]
+          },
+          {
+            "id": 9,
+            "question_text": "Yếu tố nào sẽ tiếp tục tạo ra sự đột phá và chuyền biến trong cục diện thế giới hiện nay?",
+            "answers": [
+              { "id": 1, "text": "Cuộc chạy đua vũ trang giữa các nước.", "correct": false },
+              { "id": 2, "text": "Sự phát triển của cách mạng khoa học - kĩ thuật.", "correct": true },
+              { "id": 3, "text": "Sự phát triển của phong trào giải phóng dân tộc.", "correct": false },
+              { "id": 4, "text": "Sự vươn lên của các nước về kinh tế.", "correct": false }
+            ]
+          },
+          {
+            "id": 10,
+            "question_text": "Nguyên tắc nào của Liên hợp quốc cũng là những điều khoản Hiệp ước Bali 1976 của tổ chức ASEAN?",
+            "answers": [
+              { "id": 1, "text": "Bình đẳng chủ quyền giữa các quốc gia và quyền tự quyết của các dân tộc.", "correct": false },
+              { "id": 2, "text": "Tôn trọng toàn vẹn lãnh thổ của tất cả các nước.", "correct": true },
+              { "id": 3, "text": "Bảo vệ hòa bình và an ninh thế giới.", "correct": false },
+              { "id": 4, "text": "Chung sống hòa bình và sự nhất trí giữa năm nước lớn.", "correct": false }
+            ]
+          },
+          {
+            "id": 11,
+            "question_text": "Dưới tác động của cuộc khai thác thuộc địa lần hai của Pháp; xã hội Việt Nam có những mâu thuẫn cơ bản nào?",
+            "answers": [
+              { "id": 1, "text": "Dân tộc Việt Nam - thực dân Pháp; vô sản - tư sản.", "correct": false },
+              { "id": 2, "text": "Vô sản - tư sản; Nông dân - địa chủ phong kiến.", "correct": false },
+              { "id": 3, "text": "Trung, tiểu địa chủ- đại địa chủ; Nông dân- địa chủ phong kiến.", "correct": false },
+              { "id": 4, "text": "Dân tộc Việt Nam - Thực dân Pháp; Nông dân - Địa chủ phong kiến.", "correct": true }
+            ]
+          },
+          {
+            "id": 12,
+            "question_text": "Lí do cơ bản để Mĩ và Liên Xô từng bước hòa dịu, sau đó đi đến kết thúc Chiến tranh lạnh là",
+            "answers": [
+              { "id": 1, "text": "Xu thế toàn cầu hóa ngày càng diễn ra mạnh mẽ, buộc hai nước phải chấm dứt đối đầu.", "correct": false },
+              { "id": 2, "text": "Cuộc chạy đua vũ trang tốn kém dẫn tới sự suy giảm thế lực về nhiều mặt của hai nước.", "correct": true },
+              { "id": 3, "text": "Sự vươn lên cạnh tranh mạnh mẽ của Nhật Bản và các nước Tây Âu.", "correct": false },
+              { "id": 4, "text": "Các vấn đề quốc tế đặt ra do những tác động của cuộc cách mạng khoa học - công nghệ.", "correct": false }
+            ]
+          },
+          {
+            "id": 13,
+            "question_text": "“Hòa bình trung lập, không tham gia bất kì liên mình quán sự hoặc chính trị nào, nhận viện trợ từ mọi phía không có điều kiện rằng buộc” là đường lối đối ngoại của",
+            "answers": [
+              { "id": 1, "text": "Ấn Độ (sau khi độc lập)", "correct": false },
+              { "id": 2, "text": "Campuchia (1954 - 1970)", "correct": true },
+              { "id": 3, "text": "In-đô-nê-xi-a (1970 - 1975)", "correct": false },
+              { "id": 4, "text": "Trung Quốc (1959 - 1978)", "correct": false }
+            ]
+          },
+          {
+            "id": 14,
+            "question_text": "Sau Chiến tranh thế giới thứ hai, phong trào đấu tranh giành độc lập ở Châu Phi bùng nỗ sớm nhất ở khu vực",
+            "answers": [
+              { "id": 1, "text": "Tây Phi", "correct": false },
+              { "id": 2, "text": "Nam Phi", "correct": false },
+              { "id": 3, "text": "Bắc Phi", "correct": true },
+              { "id": 4, "text": "Trung Phi", "correct": false }
+            ]
+          },
+          {
+            "id": 15,
+            "question_text": "Điểm chung giữa phong trào Cần vương và phong trào nông dân Yên Thế là",
+            "answers": [
+              { "id": 1, "text": "Giúp vua cứu nước.", "correct": false },
+              { "id": 2, "text": "Muốn giành lại quyền làm chủ đất nước.", "correct": false },
+              { "id": 3, "text": "Dưới sự lãnh đạo của văn thân sỹ phu yêu nước.", "correct": false },
+              { "id": 4, "text": "Thể hiện tinh thần yêu nước, tinh thần dân tộc.", "correct": true }
+            ]
+          },
+          {
+            "id": 16,
+            "question_text": "Thực dân Pháp tiền hành khai thác thuộc địa lần thứ hai ở Đông Dương khi",
+            "answers": [
+              { "id": 1, "text": "Chiến tranh thế giới thứ nhất kết thúc.", "correct": true },
+              { "id": 2, "text": "Chiến tranh thế giới lần thứ nhất bắt đầu.", "correct": false },
+              { "id": 3, "text": "Cuộc khai thác thuộc địa lần thứ nhất kết thúc.", "correct": false },
+              { "id": 4, "text": "Chiến tranh thế giới lần thứ nhất đang trong giai đoạn quyết liệt.", "correct": false }
+            ]
+          },
+          {
+            "id": 17,
+            "question_text": "So với cuộc khai thác thuộc địa lần thứ nhất, đặc điểm nổi bật trong cuộc khai thác thuộc địa lần thứ hai của Pháp ở Đông Dương là sự đầu tư với",
+            "answers": [
+              { "id": 1, "text": "Tốc độ nhanh, quy mô lớn vào các ngành kinh tế Việt Nam.", "correct": true },
+              { "id": 2, "text": "Quy mô lớn, ưu tiên phát triển công nghiệp.", "correct": false },
+              { "id": 3, "text": "Quy mô lớn, ưu tiên phát triển ngành nông nghiệp và công nghiệp.", "correct": false },
+              { "id": 4, "text": "Tốc độ nhanh, chú trọng áp dụng KHKT.", "correct": false }
+            ]
+          },
+          {
+            "id": 18,
+            "question_text": "Điểm đến đầu tiên trong hành trình tìm đường cứu nước của Nguyễn Tất Thành là quốc gia nào?",
+            "answers": [
+              { "id": 1, "text": "Trung Quốc", "correct": false },
+              { "id": 2, "text": "Liên Xô.", "correct": false },
+              { "id": 3, "text": "Nhật Bản", "correct": false },
+              { "id": 4, "text": "Pháp", "correct": true }
+            ]
+          },
+          {
+            "id": 19,
+            "question_text": "Một trong những tác động của phong trào giải phóng dân tộc đối với quan hệ quốc tế sau Chiến tranh thế giới thứ hai là",
+            "answers": [
+              { "id": 1, "text": "Góp phần làm xói mòn và tan rã trật tự thế giới hai cực Ianta.", "correct": true },
+              { "id": 2, "text": "Thúc đây Mĩ phải chấm dứt tình trạng Chiến tranh lạnh với Liên Xô.", "correct": false },
+              { "id": 3, "text": "Thúc đây các nước tư bản hòa hoãn với các nước xã hội chủ nghĩa.", "correct": false },
+              { "id": 4, "text": "Góp phần hình thành các liên minh kinh tế - quân sự khu vực.", "correct": false }
+            ]
+          },
+          {
+            "id": 20,
+            "question_text": "Nét nổi bật của phong trào đấu tranh giành độc lập của nhân dân Đông Nam Á trong Chiến tranh thế giới thứ hai là gì?",
+            "answers": [
+              { "id": 1, "text": "Tiến hành cuộc đấu tranh chống thực dân Âu - Mĩ.", "correct": false },
+              { "id": 2, "text": "Tiến hành cuộc đấu tranh chống quân phiệt Nhật Bản.", "correct": false },
+              { "id": 3, "text": "Chuyển từ đấu tranh chống thực dân Âu - Mĩ sang đấu tranh chống quân phiệt Nhật Bản.", "correct": true },
+              { "id": 4, "text": "Chuyển từ đấu tranh chống thực dân phương Tây sang đấu tranh chống quân phiệt Nhật Bản.", "correct": false }
+            ]
+          },
+          {
+            "id": 21,
+            "question_text": "Việc phóng tàu “Thần Châu 5” (năm 2003), đã đưa Trung Quốc trở thành",
+            "answers": [
+              { "id": 1, "text": "Quốc gia đầu tiên có tàu cùng với con người bay vào vũ trụ.", "correct": false },
+              { "id": 2, "text": "Quốc gia thứ ba có tàu cùng với con người bay vào vũ trụ.", "correct": true },
+              { "id": 3, "text": "Quốc gia thứ hai có tàu cùng với con người bay vào vũ trụ.", "correct": false },
+              { "id": 4, "text": "Có tiềm lực lớn nhất trong lĩnh vực chinh phục vũ trụ.", "correct": false }
+            ]
+          },
+          {
+            "id": 22,
+            "question_text": "Thông điệp của Tống thổng Tơ-ru-man tại Quốc hội Mĩ (tháng 3/1947) được xem là sự kiện",
+            "answers": [
+              { "id": 1, "text": "Phá vỡ thế đối đầu giữa hai cường quốc Xô - Mĩ.", "correct": false },
+              { "id": 2, "text": "Đặt nhân loại đứng trước nguy cơ khủng bố.", "correct": false },
+              { "id": 3, "text": "Phá vỡ thế đồng minh giữa hai cường quốc Xô - Mĩ.", "correct": true },
+              { "id": 4, "text": "Mở đầu xu thế đối thoại hòa hoãn Đông - Tây.", "correct": false }
+            ]
+          },
+          {
+            "id": 23,
+            "question_text": "Nước nào dưới đây đã mở đầu kỉ nguyên chinh phục vũ trụ của loài người?",
+            "answers": [
+              { "id": 1, "text": "Hoa Kỳ", "correct": false },
+              { "id": 2, "text": "Nhật Bản", "correct": false },
+              { "id": 3, "text": "Liên Xô", "correct": true },
+              { "id": 4, "text": "Trung Quốc", "correct": false }
+            ]
+          },
+          {
+            "id": 24,
+            "question_text": "Ý nào dưới đây không phản ánh đúng nội dung cơ bản của Tuyên ngôn Nhân quyên và Dân quyền ở Pháp năm 1789?",
+            "answers": [
+              { "id": 1, "text": "Thừa nhận quyền tự do, bình đẳng của con người.", "correct": false },
+              { "id": 2, "text": "Khẳng định chủ quyền của nhân dân.", "correct": false },
+              { "id": 3, "text": "Tuyên bố quyền sở hữu là quyền thiêng liêng, bất khả xâm phạm.", "correct": false },
+              { "id": 4, "text": "Đề cao vai trò của các nhà Triết học Ánh sáng.", "correct": true }
+            ]
+          },
+          {
+            "id": 25,
+            "question_text": "Điểm giống nhau giữa cách mạng tư sản Pháp 1789 với cuộc Duy Tân Minh Trị ở Nhật Bản 1868 là gì?",
+            "answers": [
+              { "id": 1, "text": "Tác động đến thế giới", "correct": false },
+              { "id": 2, "text": "Thành phần lãnh đạo", "correct": false },
+              { "id": 3, "text": "Tính triệt để, điển hình", "correct": false },
+              { "id": 4, "text": "Tính chất", "correct": true }
+            ]
+          },
+          {
+            "id": 26,
+            "question_text": "Cuộc cách mạng tư sản nổ ra đầu tiên trên thế giới diễn ra ở",
+            "answers": [
+              { "id": 1, "text": "Pháp.", "correct": false },
+              { "id": 2, "text": "I-ta-li-a.", "correct": false },
+              { "id": 3, "text": "Anh.", "correct": false },
+              { "id": 4, "text": "Hà Lan.", "correct": true }
+            ]
+          },
+          {
+            "id": 27,
+            "question_text": "Sau Chiến tranh thế giới thứ nhất, bộ phận nào trong xã hội được đánh giá là “lực lượng quan trọng” của cách mạng?",
+            "answers": [
+              { "id": 1, "text": "Giai cấp nông dân", "correct": true },
+              { "id": 2, "text": "Giai cấp công nhân", "correct": false },
+              { "id": 3, "text": "Giai cấp tiểu tư sản", "correct": false },
+              { "id": 4, "text": "Giai cấp tư sản", "correct": false }
+            ]
+          },
+          {
+            "id": 28,
+            "question_text": "Tư tưởng nào dưới đây có tác động sâu sắc đến hầu hết các bộ phận yêu nước Việt Nam những năm cuối thế kỉ XIX đầu thế kỉ XX?",
+            "answers": [
+              { "id": 1, "text": "Tư tưởng Cách mạng tháng Mười Nga năm 1917.", "correct": false },
+              { "id": 2, "text": "Tư tưởng “Tự do - bình đẳng - bác ái” trong cuộc cách mạng tư sản Pháp.", "correct": true },
+              { "id": 3, "text": "Tư tưởng quân phiệt ở Nhật Bản sau cải cách Minh Trị.", "correct": false },
+              { "id": 4, "text": "Chủ nghĩa tam dân của Tôn Trung Sơn ở Trung Quốc.", "correct": false }
+            ]
+          },
+          {
+            "id": 29,
+            "question_text": "Việt Nam gia nhập ASEAN đã",
+            "answers": [
+              { "id": 1, "text": "Mở ra triển vọng cho sự liên kết toàn khu vực Đông Nam Á.", "correct": true },
+              { "id": 2, "text": "Chứng tỏ sự đối đầu về ý thức hệ tư tưởng chính trị - quân sự giữa hai khối nước ở Đông Nam Á có thể hòa giải.", "correct": false },
+              { "id": 3, "text": "Chứng tỏ sự hợp tác giữa các nước thành viên ASEAN ngày càng có hiệu quả.", "correct": false },
+              { "id": 4, "text": "ASEAN đã trở thành một liên minh kinh tế - chính trị.", "correct": false }
+            ]
+          },
+          {
+            "id": 30,
+            "question_text": "Đảng Lập hiến ra đời năm 1923 là đảng của lực lượng nào ở Việt Nam?",
+            "answers": [
+              { "id": 1, "text": "Nông dân ở Bắc Kì", "correct": false },
+              { "id": 2, "text": "Tiểu tư sản ở Trung Kì.", "correct": false },
+              { "id": 3, "text": "Tư sản, địa chủ lớn ở Nam Kì", "correct": false },
+              { "id": 4, "text": "Tư sản dân tộc ở Nam Kì", "correct": false }
+            ]
+          },
+          {
+            "id": 31,
+            "question_text": "Lựa chọn đáp án đúng điền vào chỗ trống trong đoạn trích sau đây:",
+            "answers": [
+              { "id": 1, "text": "(1) thực dân Anh, (2) quốc gia độc lập, (3) khủng hoảng.", "correct": false },
+              { "id": 2, "text": "(1) thực dân Pháp, (2) bị đô hộ, (3) khủng hoảng.", "correct": false },
+              { "id": 3, "text": "(1) thực dân Pháp, (2) quốc gia độc lập, (3) thịnh vượng.", "correct": false },
+              { "id": 4, "text": "(1) thực dân Pháp, (2) quốc gia độc lập, (3) khủng hoảng.", "correct": true }
+            ]
+          },
+          {
+            "id": 32,
+            "question_text": "Khi các nước thắng trận họp ở Vécxai (tháng 6 năm 1919), Nguyễn Ái Quốc đã làm gì?",
+            "answers": [
+              { "id": 1, "text": "Tham dự hội nghị Vécxai, đọc Bản yêu sách của nhân dân An Nam.", "correct": false },
+              { "id": 2, "text": "Gửi Bản yêu sách của nhân dân An Nam đến hội nghị.", "correct": true },
+              { "id": 3, "text": "Về Việt Nam hoạt động.", "correct": false },
+              { "id": 4, "text": "Không quan tâm vì đây là Hội nghị của các nước đế quốc thắng trận sau Chiến tranh thế giới thứ nhất.", "correct": false }
+            ]
+          },
+          {
+            "id": 33,
+            "question_text": "“Dập dìu trống đánh cờ xiêu/ Phen này quyết đánh cả triều lẫn Tây” là những câu thơ phản ánh nhiệm vụ nào đặt ra cho nhân dân Việt Nam sau Hiệp ước Nhâm Tuất (1862)?",
+            "answers": [
+              { "id": 1, "text": "Chống thực dân Pháp xâm lược.", "correct": false },
+              { "id": 2, "text": "Chống ách đô hộ của thực dân Pháp", "correct": false },
+              { "id": 3, "text": "Chống triều đình nhà Nguyễn và thực dân Pháp xâm lược.", "correct": true },
+              { "id": 4, "text": "Chống triều đình nhà Nguyễn và sự đô hộ của thực dân Pháp.", "correct": false }
+            ]
+          },
+          {
+            "id": 34,
+            "question_text": "Nội dung nào không phải là yếu tố khách quan tác động đến phong trào dân tộc dân chủ ở Việt Nam sau Chiến tranh thế giới thứ nhất?",
+            "answers": [
+              { "id": 1, "text": "Các nước thắng trận họp hội nghị để bàn về hòa bình thế giới.", "correct": false },
+              { "id": 2, "text": "Cách mạng tháng Mười Nga thành công, nhà nước Nga Xô viết ra đời.", "correct": false },
+              { "id": 3, "text": "Các đảng cộng sản ra đời ở nhiều nước, nhất là sự ra đời của Quốc tế cộng sản.", "correct": false },
+              { "id": 4, "text": "Chính sách khai thác thuộc địa lần thứ hai của thực dân Pháp ở Đông Dương.", "correct": true }
+            ]
+          },
+          {
+            "id": 35,
+            "question_text": "Cho các dữ liệu sau:",
+            "answers": [
+              { "id": 1, "text": "4,2,1,3", "correct": true },
+              { "id": 2, "text": "2,3,4,1", "correct": false },
+              { "id": 3, "text": "1,2,3,4", "correct": false },
+              { "id": 4, "text": "3,2,4,1", "correct": false }
+            ]
+          },
+          {
+            "id": 36,
+            "question_text": "Sự phát triển của xu thế hoà bình, hợp tác và phát triển trong quan hệ quốc tế được xem là",
+            "answers": [
+              { "id": 1, "text": "Trách nhiệm của các nước phát triển khi bước sang thế kỉ XXI", "correct": false },
+              { "id": 2, "text": "Thời cơ, thách thức cho các quốc gia - dân tộc khi bước sang thế kỉ XXI.", "correct": true },
+              { "id": 3, "text": "Nhiệm vụ chung của toàn nhân loại khi bước sang thế kỉ XXI", "correct": false },
+              { "id": 4, "text": "Trách nhiệm của các nước đang phát triển khi bước sang thế kỉ XXI", "correct": false }
+            ]
+          },
+          {
+            "id": 37,
+            "question_text": "Cuộc bãi công của thợ máy xưởng Ba Son tại cảng Sài Gòn (8/1925) đã chứng tỏ điều gì?",
+            "answers": [
+              { "id": 1, "text": "Sức mạnh của phong trào công nhân so với phong trào của tư sản và tiểu tư sản.", "correct": false },
+              { "id": 2, "text": "Công nhân Việt Nam đấu tranh vẫn mang tính tự phát.", "correct": false },
+              { "id": 3, "text": "Các lực lượng cách mạng Việt Nam đã thấm nhuần lí luận Chủ nghĩa Mác Lênin và biến thành hành động cách mạng.", "correct": false },
+              { "id": 4, "text": "Tư tưởng Cách mạng tháng Mười Nga đã thấm sâu hơn vào giai cấp công nhân và bắt đầu biến thành hành động cách mạng.", "correct": true }
+            ]
+          },
+          {
+            "id": 38,
+            "question_text": "Dưới ảnh hưởng của cuộc cách mạng Cuba, phong trào giải phóng dân tộc ở Mĩ Latinh chủ yếu diễn ra dưới hình thức nào?",
+            "answers": [
+              { "id": 1, "text": "Đấu tranh chính trị", "correct": false },
+              { "id": 2, "text": "Bãi công của công nhân", "correct": false },
+              { "id": 3, "text": "Nổi dậy của nông dân", "correct": false },
+              { "id": 4, "text": "Đấu tranh vũ trang", "correct": true }
+            ]
+          },
+          {
+            "id": 39,
+            "question_text": "Các phong trào yêu nước chồng Pháp cuối thế kỉ XIX đều thất bại vì lí do chủ yếu nào?",
+            "answers": [
+              { "id": 1, "text": "Ngọn cờ cứu nước theo khuynh hướng phong kiến lỗi thời, lạc hậu.", "correct": true },
+              { "id": 2, "text": "Người lãnh đạo phong trào còn bộc lộ nhiều hạn chê.", "correct": false },
+              { "id": 3, "text": "Chưa có sự tập hợp đoàn kết thống nhất đấu tranh.", "correct": false },
+              { "id": 4, "text": "Chưa xác định rõ mục tiêu hàng đầu của các cuộc khởi nghĩa.", "correct": false }
+            ]
+          },
+          {
+            "id": 40,
+            "question_text": "Khởi nguồn của sự chia cắt trên bán đảo Triều Tiên và nước Đức sau Chiến tranh thê giới thứ hai là do",
+            "answers": [
+              { "id": 1, "text": "Cách mạng tư sản", "correct": false },
+              { "id": 2, "text": "Cách mạng xã hội chủ nghĩa", "correct": false },
+              { "id": 3, "text": "Cách mạng dân chủ tư sản kiểu cũ", "correct": false },
+              { "id": 4, "text": "Cách mạng dân tộc dân chủ nhân dân", "correct": true }
+            ]
+          }
+          
+        ],
+        "info":{
+            "title": "Đề thi thử tốt nghiệp THPT môn lịch sử năm 2022-2023",
+            "address": "Trường THPT Hàm Long Lần 1",
+            "date": "13/07/2023",
+            "examTime": "90",
+            "question_number": "40"
+        }
+      },
+
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "id": 2,
+        "subject": "History",
+        "questions": [
+          {
+            "id": 1,
+            "question_text": "What is 2+2?",
+            "answers": [
+              { "id": 1, "text": "4444", "correct": true },
+              { "id": 2, "text": "333", "correct": false },
+              { "id": 3, "text": "5555", "correct": false },
+              { "id": 4, "text": "66666", "correct": false }
+            ]
+          },
+          {
+            "id": 2,
+            "question_text": "What is 2+3?",
+            "answers": [
+              { "id": 1, "text": "4000", "correct": true },
+              { "id": 2, "text": "30000", "correct": false },
+              { "id": 3, "text": "50000", "correct": false },
+              { "id": 4, "text": "60000", "correct": false }
+            ]
+          }
+          
+        ],
+        "info":{
+            "title": "Đề thi thử tốt nghiệp THPT môn lịch sử năm 2022-2023",
+            "address": "Trường THPT Hàm Long Lần 1",
+            "date": "13/07/2023",
+            "examTime": "90",
+            "question_number": "40"
+        }
+      }
+ 
+    ]
+  }
+  
