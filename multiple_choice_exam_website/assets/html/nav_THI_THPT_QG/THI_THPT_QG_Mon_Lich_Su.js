@@ -1,14 +1,13 @@
 var arrayExams = [];
 
-$(document).ready(function() {
-    // Chọn phần tử có id là "header" và tải nội dung từ "header.html" vào phần tử đó.
+/* $(document).ready(function() {
     $(".header").load("/assets/html/header/header.html");
     $(".main").load("/assets/html/main/main.html");
     $(".document").load("/assets/html/tai_lieu_tham_khao/block_tai_lieu.html")
     $(".footer").load("/assets/html/footer/footer.html");
   
   
-  });
+  }); */
 
 
 

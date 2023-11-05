@@ -1,30 +1,67 @@
-   // Lắng nghe sự kiện click trên nút "Bắt đầu thi"
-   var startButtons = document.querySelectorAll('.start-exam-button');
-   startButtons.forEach(function(button) {
-     button.addEventListener('click', function() {
-       var examTime = this.parentElement.parentElement.querySelector('.exam-time');
-       examTime.style.display = 'none'; // Ẩn thẻ exam-time
-       var examInfoBlock = this.parentElement;
-       var examContent = document.createElement('div');
-       examContent.classList.add('exam-content');
-       examContent.innerHTML = '<div>Đề thi</div>' +
-         '<input type="button" class="start-button" value="Bắt đầu">' +
-         '<input type="button" class="cancel-button" value="Cancel">';
-       examInfoBlock.style.display = 'none';
-       examInfoBlock.parentElement.appendChild(examContent);
-
-
-       // Lắng nghe sự kiện click trên nút "Cancel" trong khối "exam-content"
-      var cancelButton = examContent.querySelector('.cancel-button');
-      cancelButton.addEventListener('click', function() {
-        examTime.style.display = 'block'; // Hiển thị lại thẻ exam-time
-        examInfoBlock.style.display = 'block';  // Hiển thị lại nội dung ban đầu
-        examContent.remove(); // Loại bỏ khối "exam-content"
 
 
 
-      });
 
 
-     });
-   });
+
+
+
+
+$(document).ready(function() {
+  // Chọn phần tử có id là "header" và tải nội dung từ "header.html" vào phần tử đó.
+  $(".header").load("/assets/html/header/header.html");
+  $(".main").load("/assets/html/main/main.html");
+  $(".document").load("/assets/html/tai_lieu_tham_khao/block_tai_lieu.html")
+  $(".footer").load("/assets/html/footer/footer.html");
+
+  
+  
+  
+
+});
+
+
+
+
+
+
+let slideIndex = 0
+const slides = document.querySelectorAll(".slide")
+const slider = document.querySelector(".slider")
+
+function showSlide(index) {
+  slider.style.transform = `translateX(-${index * 100}%)`
+}
+
+function nextSlide() {
+  if (slideIndex < slides.length - 1) {
+    slideIndex++
+  } else {
+    slideIndex = 0
+  }
+  showSlide(slideIndex)
+}
+
+setInterval(nextSlide, 3000)// Automatic sliding, change every 2 seconds
+
+
+
+
+
+
+
+
+
+
+document.querySelector("#pageNav").addEventListener("click", function() {
+// Thực hiện chuyển hướng đến trang HTML khác
+window.location.href = "assets/html/on_luyen_THPT/on_luyen_THPT.html";
+});
+
+
+
+
+
+
+
+

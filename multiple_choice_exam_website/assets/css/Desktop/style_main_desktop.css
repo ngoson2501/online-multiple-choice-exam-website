@@ -10,11 +10,6 @@
 
 
 
-
-
-
-
-
 /* #main-content{
     width: 100%;
     height: 500px;
@@ -279,3 +274,64 @@
    background-repeat: no-repeat;
 }
 
+
+
+
+
+.box-quiz-4{
+    /*  background-color: coral; */
+     width: 100%;
+     height: 480px;
+     background-image: url("/assets/images/lession1.jpg");
+    background-size:contain;
+    background-position: center; /* Bạn có thể thay đổi giá trị này để canh chỉnh vị trí hình nền theo ý muốn */
+    background-repeat: no-repeat;
+    display: flex; /* Sử dụng Flexbox */
+    align-items: center;
+    padding: 100px 0 100px 150px;
+    font-family:'M PLUS Rounded 1c', sans-serif;
+    
+ 
+ }
+ 
+ 
+ .content-quiz-4{
+     width: 50%;
+     height: 100%;
+     background-color: rgba(127, 110, 255, 0);
+     text-decoration: none;
+ 
+ }
+ 
+ .content-quiz-4 h2{
+     color: black;
+     font-size: 38px;
+ }
+ 
+ 
+ .content-quiz-4 p{
+     font-family: sans-serif;
+     font-size: 15px;
+     color: rgb(44, 44, 44);
+     margin: 20px 0 20px 0;
+ }
+ 
+
+ 
+ .content-quiz-4 button{
+    font-family: sans-serif;
+    color: rgb(255, 255, 255);
+     background-color: rgb(250, 176, 49);
+     box-sizing: border-box;
+     outline: none;
+     border: none;
+     padding: 12px 60px 12px 60px;
+     border-radius: 8px;
+     cursor: pointer;
+     font-size: 15px;
+ }
+ 
+ .content-quiz-4 button:hover{
+     color: rgb(43, 39, 146);
+ }
+ 
