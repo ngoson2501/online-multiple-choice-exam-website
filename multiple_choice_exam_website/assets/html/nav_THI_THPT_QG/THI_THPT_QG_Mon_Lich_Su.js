@@ -1,14 +1,5 @@
 var arrayExams = [];
 
-/* $(document).ready(function() {
-    $(".header").load("/assets/html/header/header.html");
-    $(".main").load("/assets/html/main/main.html");
-    $(".document").load("/assets/html/tai_lieu_tham_khao/block_tai_lieu.html")
-    $(".footer").load("/assets/html/footer/footer.html");
-  
-  
-  }); */
-
 
 
   function displayExams (exams){
@@ -60,17 +51,6 @@ var arrayExams = [];
   
   
   function hideElements(id) {
-   /*  var examDateElements = document.querySelectorAll(`.exam-date-${id}`);
-    var blockInfoElements = document.querySelectorAll(`.block-info-questions-${id}`);
-    examDateElements.forEach(function (element) {
-      element.style.display = "none";
-      
-    });
-  
-    blockInfoElements.forEach(function (element) {
-      element.style.display = "none";
-      
-    }); */
 
     var examDateElements = $(`.exam-date-${id}`);
     var blockInfoElements = $(`.block-info-questions-${id}`);
@@ -84,6 +64,10 @@ var arrayExams = [];
     showBlockInfo(id);
   
   }
+
+
+
+
   
 
 
